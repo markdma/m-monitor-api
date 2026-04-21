@@ -1,0 +1,1 @@
+from monitor.apps.ceph_cluster import route
